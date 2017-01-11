@@ -2,9 +2,9 @@
 
 Record redux thunk actions and dispatch them when your server side code restarts.
 
-![]()
+![todosmvc](https://cdn.rawgit.com/oyyd/images/2fd9dca6/github/redux-thunk-dispatch-todosmvc.gif)
 
-Try this [example](TODO) to play around and check out the setup.
+Try this [todosmvc example](TODO) to play around and check out the setup.
 
 ## This is experimental
 
