@@ -107,7 +107,3 @@ server.listen(() => {
   require('./dispatch')();
 });
 ```
-
-## TODO
-
-- peerDependencies
