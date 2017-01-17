@@ -1,6 +1,6 @@
 {
   "name": "redux-thunk-dispatch",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Record redux thunk actions and dispatch them when your server side code restarts.",
   "scripts": {
     "build": "cross-env BABEL_ENV=commonjs babel src --out-dir .",

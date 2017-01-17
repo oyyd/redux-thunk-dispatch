@@ -13,7 +13,7 @@ var _querystring2 = _interopRequireDefault(_querystring);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
-var REDISPATCH_NAME = '[redispatch]';
+var REDISPATCH_NAME = '[dispatch]';
 
 var DEFAULT_OPTIONS = exports.DEFAULT_OPTIONS = {
   path: '/__dispatch_signal',
