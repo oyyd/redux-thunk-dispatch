@@ -1,2 +1,6 @@
 node_modules
 */.DS_Store
+/dispatch-instrument
+/redispatch-event
+/signal-middleware
+/thunk

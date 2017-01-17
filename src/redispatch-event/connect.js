@@ -1,6 +1,6 @@
 import querystring from 'querystring';
 
-const REDISPATCH_NAME = '[redispatch]';
+const REDISPATCH_NAME = '[dispatch]';
 
 export const DEFAULT_OPTIONS = {
   path: '/__dispatch_signal',
